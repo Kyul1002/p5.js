@@ -188,7 +188,9 @@ function drawOriginalBuildings() {
   line(275, 80, 260, 70);
   line(275, 80, 290, 70);
 }
-
+/*
 function mousePressed() {
    saveGif('abstract_ani.gif', 10);
+
  }
+*/
