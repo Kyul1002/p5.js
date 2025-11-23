@@ -7,7 +7,7 @@ let shirtColorIndex = 0;
 function setup() {
   pixelDensity(1);
   createCanvas(600, 400);
-saveGif('Caricature.gif', 10);
+//saveGif('Caricature.gif', 10);
 
 
   colorBlack = color(30, 30, 30);
@@ -145,4 +145,5 @@ function keyPressed() {
     }
   }
   
+
 }
